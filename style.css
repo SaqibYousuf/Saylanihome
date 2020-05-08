@@ -1,0 +1,378 @@
+/* Body */
+body{
+  
+    background-color: rgb(241, 241, 241);
+    
+}
+
+/* navbar */
+.my-nav{
+    z-index: 999;
+   position: fixed;
+   width: 100%;
+   top: -2px;
+ 
+}
+li a:hover {
+    background-color: rgb(100, 100, 173);
+    border-radius: 10px;
+  }
+  .navbar-collapse{
+    float: right !important;
+    text-align: center !important;
+    margin-left: 670px !important;
+    width: 100%;
+    position: fixed;
+    margin-top: auto;
+   
+    
+   
+}
+.logo{
+    margin-left: 20px !important;
+    float: left !important;
+    
+}
+ /* slider */
+.my-carousel {
+    
+    margin-top: 20px !important;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: 50px;
+    padding: 10px;
+
+
+}
+.slider1{
+    width:1100px;
+    height:500px;
+}
+
+.slider2{
+    width:1100px;
+    height:500px;
+}
+
+.slider3{
+    width:1100px;
+    height:500px;
+}
+.text-right-slider {
+    height: 20px;
+    background-color: blue;
+    width: 100%;
+    margin-top: -40px;
+}
+.slider-text{
+    font-family: Impact; 
+    font-size: 13px;
+    color: black;
+    margin-top: 0px;
+    
+}
+.marquee.text {
+    margin-top: -12px;
+}
+/* Introduction */
+h1 {
+    color: navy;
+    text-align: center;  
+    font-weight: bold;
+    font-size: 28.8px;
+    margin-top: 40px;
+    
+}
+.theme {
+    color: green;
+}
+.Intro {
+    padding-bottom: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+    }
+.title{
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin-top: 15px;
+}
+p {
+    font-size: 15px ;
+    color: rgb(78, 78, 78);
+    
+}
+/* stats */
+.sh{
+    margin-top: 40px;
+}
+.cardgroup {
+    background-color: blue;
+    color: white;
+    
+}
+.card {
+    background-color: blue;
+    border: none;
+    text-align: center;
+    margin-left: 25px;
+    width: 230px;
+    margin-top: 15px;
+}
+
+.icon {
+    margin-left: 90px;
+}
+
+h2 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+h5{
+    font-weight: bold;
+}
+
+.MONTHLY {
+    color: green;
+    font-style: italic;
+    font-size: 120% ;
+    font-weight: bolder !important;
+}
+/* SERVICES */
+.education {
+    width: 50px !important;
+    height: 50px !important;
+    margin-left: 90px ;
+
+}
+
+.Services{
+    background-color: rgb(241, 241, 241);
+    width: 100%;
+    
+
+}
+
+.serve  {
+    background-color: white;
+    
+}
+.SADQAH {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 180px;
+  width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+    
+}
+
+.WELFARE {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+        margin-top: 15px;
+    height: 180px;
+    width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+  
+  
+    
+}
+
+
+.MEDICAL {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 180px;
+    width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+}
+
+
+.DASTARKHUWAN {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 180px;
+    width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+  margin-right: -120px;
+} 
+
+.ROPLANT {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 180px;
+    width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+    
+}
+
+
+.EDUCATION {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 180px;
+    width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+}
+
+.pic {
+    width: 60px;
+    margin-left: 60px;
+    margin-top: 40px;
+
+}
+
+.st{
+    color: navy;
+    margin-left: -25px;
+}
+/* missions */
+
+.maup{
+    border-top: 1px solid gray;
+    margin-top: 40px ;
+}
+.resize{
+    padding:10px;
+}
+
+.mission{
+   background-color: white;
+    color: navy;
+    border:1px solid rgb(184, 184, 184);
+    height: 120%;
+    margin-top: 10px;
+    
+    
+}
+
+.mh{
+    font-weight: bolder;
+    font-size: 24px;
+    color: rgb(26, 26, 170) ;
+    font-weight: bold;
+    margin-top: 40px ;
+    margin-bottom: 1px solid black;
+}
+.mt {
+    font-weight: bolder;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.mi{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+/* Image Gallery */
+.gh {
+    margin-top: 40px;
+}
+.gallery{
+    text-align: center;
+    margin-top: 20px;
+
+    
+}
+.Images{
+    text-align: center;
+    width: 210px;
+    height: 150px;
+    padding: -2px;
+}
+.image1:hover .Images {
+    opacity: 0.4;
+}
+
+.image2:hover .Images {
+    opacity: 0.4;
+}
+
+.image3:hover .Images {
+    opacity: 0.4;
+}
+
+.image4:hover .Images {
+    opacity: 0.4;
+}
+
+.image5:hover .Images {
+    opacity: 0.4;
+}
+
+
+.main{
+    background-color: rgb(83, 83, 83);
+    text-align: left;
+    width: 104%;
+}
+
+.contact {
+    margin-left: -20px;
+    font-size: 14px;
+    color:  rgb(241, 241, 241);
+    text-align: left;
+}
+.phone{
+    list-style-image: url('Images/phone.png');
+    
+}
+.email {
+    list-style-image: url('Images/email.png');
+}
+.globe {
+    list-style-image: url('Images/globe.png');
+}
+.pcolor {
+   color:  rgb(241, 241, 241);
+}
+.um{
+    border-bottom: rgb(241, 241, 241);
+    margin-left: -20px;
+    
+}
+.green{
+    color:green;
+    width: 60px ;
+    border-color: green;
+}
+.link{
+  
+   color: white;
+   margin-top: 25px;
+   font-size: 14px;
+
+} 
+.footer-copyright {
+    background-color: blue;
+    height: auto;
+    width: 100%;
+}
+.lead{
+    margin-left: 10px;
+    font-size: 11px;
+}
+
+.connect{
+    width: 180px;
+}
